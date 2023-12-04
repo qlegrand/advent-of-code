@@ -8,3 +8,8 @@ I had a facepalm moment with the first puzzle when I initially computed the sum 
 
 ## Day 3
 Probably could have done some optimisation and elimidate some boilerplate, but it gets stuff done!
+
+## Day 4
+One strategy I have been following for the past few days is to trial-run my solution on the toy example provided with each problem. That has proven effective as it avoided me to "debug in production" :-D.
+
+For the first time also, I have been re-using a function accross the 2 puzzles
