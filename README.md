@@ -13,3 +13,8 @@ Probably could have done some optimisation and elimidate some boilerplate, but i
 One strategy I have been following for the past few days is to trial-run my solution on the toy example provided with each problem. That has proven effective as it avoided me to "debug in production" :-D.
 
 For the first time also, I have been re-using a function accross the 2 puzzles
+
+## Day 5
+I added a small utils module to load test or "real" data
+
+Puzzle 2 took me a bit more of time, until I realise that the `l(s)` as `location` function of `seed` is a piecewise linear function of slope 1 and varying intercept. From there it was a piece of cake to find a way to check all lower bounds of the input spaces and run function on them, instead of brute-forcing it
