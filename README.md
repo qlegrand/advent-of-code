@@ -24,3 +24,6 @@ Not very challengind day, but sometimes it's good ;-)
 
 ## Day 7
 This one took me longer than I expected. Maybe I'll skip day 8, maybe not...
+
+## Day 8
+I was able to brute-force the first puzzle, but not the second. I didn't notice that cycle were forming there, and Reddit gave me the LCM hint :shame:
