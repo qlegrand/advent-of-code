@@ -30,3 +30,8 @@ I was able to brute-force the first puzzle, but not the second. I didn't notice 
 
 ## Day 9
 Nothing special to say here, solution was pretty self evident
+
+## Day 10
+I have done puzzle 1 so far, and will ponder over puzzle 2. I'm contemplating giving up on AoC for this year to be honnest, I am already 1 day behind, and I am not sure I am willing to put in the time and thinking anymore. Let's wait and see...
+
+Oh, also on puzzle 1, this was simply solved with a `Pipe` class allowing to got through the graph step by step, counting lenght covered. No biggie, but still involved effort. 
